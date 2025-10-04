@@ -1,0 +1,8 @@
+pandas>=1.5
+numpy
+matplotlib
+plotly
+sqlalchemy
+psycopg2-binary
+openpyxl
+tqdm
